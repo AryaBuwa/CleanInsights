@@ -7,7 +7,7 @@ import plotly.express as px
 
 
 # Set page configuration for a wide layout
-st.set_page_config(page_title="Advanced EDA & Cleaning Tool", layout="wide")
+st.set_page_config(page_title="CleanInsights", layout="wide")
 
 
 # Main Title
