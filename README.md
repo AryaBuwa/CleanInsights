@@ -110,18 +110,6 @@ http://localhost:8501
 
 ---
 
-# 📸 Screenshots
-
-Coming soon.
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 <div align="center">
 
 Built with ❤️ by **Arya Buwa**
