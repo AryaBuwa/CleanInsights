@@ -38,6 +38,23 @@ No notebooks. No scripting. Just upload and analyze.
 
 ---
 
+# 🔍 Data Quality Checks
+
+CleanInsights performs basic data-quality checks before analysis to help identify potential issues in a dataset.
+
+The checks include:
+
+- Missing values
+- Duplicate records
+- Unique value counts
+- Data types
+- Basic statistical summaries
+- Potential outliers in numerical columns
+
+These checks provide a quick overview of the dataset before moving into deeper exploratory analysis.
+
+---
+
 # ✨ Features
 
 | | |
