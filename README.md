@@ -38,6 +38,17 @@ No notebooks. No scripting. Just upload and analyze.
 
 ---
 
+```
+mermaid 
+flowchart LR 
+    A[Upload Dataset] --> B[EDA & Analysis] 
+    B --> C[Visualize] 
+    C --> D[Clean Data] 
+    D --> E[Export]
+```
+
+---
+
 # 🔍 Data Quality Checks
 
 CleanInsights performs basic data-quality checks before analysis to help identify potential issues in a dataset.
