@@ -38,12 +38,11 @@ No notebooks. No scripting. Just upload and analyze.
 
 ---
 
-```
-mermaid 
-flowchart LR 
-    A[Upload Dataset] --> B[EDA & Analysis] 
-    B --> C[Visualize] 
-    C --> D[Clean Data] 
+```mermaid
+flowchart LR
+    A[Upload Dataset] --> B[EDA & Analysis]
+    B --> C[Visualize]
+    C --> D[Clean Data]
     D --> E[Export]
 ```
 
